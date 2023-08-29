@@ -103,7 +103,31 @@ Aprender o básico sobre contribuição no GitHub.
 9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
 10. Create a **Pull Request**.
 
-## Saiba Mais
+### Saiba Mais
+<details>
+
+<summary>📖 Glossário de termos Eng-Pt </summary>
+
+- ***Branch:*** Ramificação;
+- ***Checkout:*** Fechar/Sair;
+- ***Clone:*** Clonar;
+- ***Commit:*** Salvar alteração de um código fonte;
+- ***Docs:*** Documento;
+- ***Fetch:*** Buscar;
+- ***Issue(s):*** Problema(s);
+- ***Main:*** Principal;
+- ***Origin:*** Origem;
+- ***Pull:*** Puxar;
+- ***Push:*** Empurrar (No git seria no sentido de 'mandar');
+- ***ReadMe:*** Me Leia;
+- ***Remote:*** Remoto;
+- ***Update:*** Atualizar/Atualização;
+- ***Upstream:*** Se refere ao ***repositório original*** de onde um fork (ramificação) foi criado.;
+- ***Fork(no github):*** Criar uma cópia independente;
+
+</details>
+
+---
 
 ### Utilitários
 
